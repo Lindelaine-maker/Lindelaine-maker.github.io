@@ -1,0 +1,8 @@
+
+{
+  "name": "ShopeeAuto Affiliate Hub",
+  "description": "An all-in-one marketing and automation platform for Shopee affiliates to generate high-converting social media content, Google Ads, and promotional visuals using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
